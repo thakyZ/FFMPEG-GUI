@@ -5,7 +5,7 @@ This is a simple GUI program that I have written in C#.
 
 ## BUILDING
 You will need:   
-- Visual Studio 2017+ installed (I recomend `VS2019`).
+- Visual Studio 2017+ installed (I recommend `VS2019`).
 - A copy of the binary for ffmpeg (`ffmpeg.exe`).
 - And .NET Framework 4.6.1 installed.
 
